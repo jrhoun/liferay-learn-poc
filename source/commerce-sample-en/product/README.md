@@ -19,3 +19,5 @@ Tutorials and guides to extend and customize your Liferay Commerce experience.
 ## [Get Help](./get-help/README.md)
 
 Need more help? Liferay has training, consulting, and support resources for all your needs.
+
+Test
